@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming and computer science in general
 - 🌱 I’m currently learning Python and C#
 - 💞️ I’m looking to collaborate on any projects in C+, C# or Python
-- 📫 Email: Malone.mkd.makoto@gmail.com
+- 📫 Email: MK.Napier-Jameson@outlook.com
 
 <!---
 MaloneMKD/MaloneMKD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
