@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MaloneMKD
 - 👀 I’m interested in programming and computer science in general
-- 🌱 I’m currently learning Python
 - 📫 Email: MK.Napier-Jameson@outlook.com
 
 <!---
