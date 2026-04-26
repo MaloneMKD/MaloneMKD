@@ -2,7 +2,7 @@
 
 I am a Junior Software Engineer and a BSc Computing Graduate from UNISA, currently leveling up my expertise by pursuing my BSc Honours in Computing at the same institution.
 
-I specialize in building robust applications with a focus on high-performance systems and modern Windows UI frameworks. I enjoy solving complex logic problems, whether it's optimizing graphics pipelines or implementing intricate algorithms.
+I specialize in building robust applications with a focus on high-performance systems and modern Windows UI frameworks. I enjoy solving complex logic problems, whether it's image processing or implementing intricate algorithms.
 
 🎓 Education: BSc in Computing (UNISA) | Candidate: BSc Hons in Computing (UNISA).
 
